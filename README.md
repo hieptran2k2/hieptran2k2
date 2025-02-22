@@ -12,7 +12,7 @@
 
 ## GitHub Star Status
 <div align="center">
-  <h3>✨ Hiện có GitHub Stars: <img src="https://img.shields.io/github/stars/hieptran2k2?style=social" alt="GitHub Stars"> ✨</h3>
+  <h3>✨ GitHub Stars: <img src="https://img.shields.io/github/stars/hieptran2k2?style=social" alt="GitHub Stars"> ✨</h3>
 </div>
 
 ## Languages
