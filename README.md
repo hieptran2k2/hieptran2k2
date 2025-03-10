@@ -5,10 +5,10 @@
 </p>
 
 ## About Me
-- 🔭 **Công việc hiện tại:** AI Engineer.
-- 🤖 **Lĩnh vực:**  Computer Vision.
-- 🎯 **Mục tiêu:** Trở thành chuyên gia AI.
-- 🎮 **Sở thích:** Chơi game và khám phá công nghệ mới.
+- 🔭 **Current Job:** AI Engineer.
+- 🤖 **Field:** Computer Vision.
+- 🎯 **Goal:** To become an AI expert.
+- 🎮 **Hobbies:** Playing games and exploring new technologies.
 
 ## GitHub Star Status
 <div align="center">
